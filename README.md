@@ -2,6 +2,8 @@
 
 -Copy vsftpd.conf to /etc/vsftpd.conf
 
--Make file permission in /srv/ftp/public like screenshoot
+-Make file permission in /srv/ftp/public like in screenshoot.png
+
+-Restart vsftpd (sudo /etc/init.d/vsftpd restart)
 
 -You can now connect to public folder and do anything (create, upload, delete, rename, open file)
