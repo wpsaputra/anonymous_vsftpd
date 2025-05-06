@@ -2,7 +2,7 @@
 
 -Copy vsftpd.conf to /etc/vsftpd.conf
 
--Make file permission in /srv/ftp/public like in screenshoot.png
+-Make file permission in /srv/ftp/public like in public_folder.png
 
 -Restart vsftpd (sudo /etc/init.d/vsftpd restart)
 
