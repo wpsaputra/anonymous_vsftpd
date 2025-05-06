@@ -2,7 +2,7 @@
 
 -Copy vsftpd.conf to /etc/vsftpd.conf
 
--Make file permission (chmod), and file owner (chown)  in /srv/ftp/public like in public_folder.png
+-Make file permission (chmod), and file owner (chown)  in /srv/ftp/public to look like public_folder.png
 
 -Restart vsftpd (sudo /etc/init.d/vsftpd restart)
 
